@@ -1,9 +1,11 @@
 ---
 layout: default
-title: lammtal.de Blog
-date: 2019-02-09 22:14:00 +0001
 ---
 
-# Erster Eintrag
+# Willkommen auf lammtal.de
 
-Das ist ein erster Test Eintrag.
+Hier entsteht ein Baublog.
+
+Wie der Name schon vermuten lässt, bauen wir ein Haus im Neubaugebiet Lammtal in Gärtringen, Landkreis Böblingen.
+
+Mit wem wir bauen? Und was uns dabei so erwartet? Dazu in den nächten Tagen/Wochen/Monaten mehr, hier auf lammtal.de

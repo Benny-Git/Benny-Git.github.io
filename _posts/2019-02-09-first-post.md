@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "First Post"
+title: "Grundstück"
 ---
 
-# Herzlich willkommen
+# Grundstück
 
-**Hier entsteht der Baublog lammtal.de**
+Unser Grundstück haben wir bereits vor einiger Zeit gekauft.
 
-Alles weitere kommt die nächsten Tage.
+Details dazu gibt es bald hier.
 

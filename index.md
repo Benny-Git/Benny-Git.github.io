@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: lammtal.de Blog
 date: 2019-02-09 22:14:00 +0001
 ---

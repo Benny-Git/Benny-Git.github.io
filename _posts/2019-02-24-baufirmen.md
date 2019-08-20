@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Die Qual der Wahl: Baufirmen"
+title: "Wahl der Baufirma"
 ---
 
 # Die Qual der Wahl: Baufirmen

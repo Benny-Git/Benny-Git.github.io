@@ -9,5 +9,5 @@ Heute war es soweit, und wir konnten unsere Baustelle ~~feierlich~~ eröffnen. L
 
 Viele Details zu Kontrollschächten, Abgrabungen, Bodenplatte usw. werden nun etwas verständlicher, und wir sind optimistisch dass das alles klappt.
 
-Leider hat unsere Baufirma demnächst 3 Wochen Betriebsferien, was mit Erdarbeiten und unter Umständen dem geplanten Kellerbau kollidieren wird - wir sind gespannt wie die Koordination laufen wird.
+Unsere Baufirma hat jetzt erst mal 3 Wochen Betriebsferien, was mit den Erdarbeiten und dem Aufbau der Bodenplatte zusammenfällt - wir sind gespannt wie die Koordination und Kommunikation in dieser Zeit laufen wird. Unser Bauleiter ist trotzdem zu erreichen, und will noch den Hausanschluss mit NetzeBW klären.
 

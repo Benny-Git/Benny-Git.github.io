@@ -22,5 +22,6 @@ In welche Richtung unsere Entscheidung dabei fallen wird, werden wir noch gründ
 ## Brandschutzschalter?
 
 Danach gab unser Elektriker uns noch ein Informationsschreiben der Elektriker-Innung mit, das uns über den möglichen Einbau von Brandschutzschaltern informieren soll. Diese sind seit dem 18. Dezember 2017 durch die Norm DIN VDE 0100-420 vorgeschrieben, und sollen Fehlerlichtbögen frühzeitig erkennen. Da unser Haus aus Holz gebaut wird, zählt es in die Kategorie "Gebäude mit brennbaren Baustoffen".
-Nun ist diese Installation mit ordentlichen Mehrkosten verbunden, und daher können wir diese entweder umsetzen, oder den Elektriker bei Nichteinbau von der Haftung entbinden. 
+Nun ist diese Installation mit ordentlichen Mehrkosten verbunden, und daher können wir diese entweder umsetzen, oder den Elektriker bei Nichteinbau von der Haftung entbinden.
 
+*Nachtrag:* [Auf Youtube gibt es dieses Video, das die Brandschutzschalter-Thematik ausführlich beleuchtet](https://www.youtube.com/watch?v=Beo9U4xteJM).

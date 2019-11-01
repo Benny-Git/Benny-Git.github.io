@@ -11,3 +11,5 @@ Damit der Keller später nicht auf dem [Kies]({{ site.baseurl }}{% post_url 2019
 [![Folie über der Dämmung](/assets/2019-08-19_IMG_2286-thumb.jpeg)](/assets/2019-08-19_IMG_2286.jpeg "Folie über der Dämmung")
 [![Die (fast) fertige Schalung](/assets/2019-08-19_IMG_2293-thumb.jpeg)](/assets/2019-08-19_IMG_2293.jpeg "Die (fast) fertige Schalung")
 [![Andere Perspektive](/assets/2019-08-19_IMG_2295-thumb.jpeg)](/assets/2019-08-19_IMG_2295.jpeg "Andere Perspektive")
+[![Ein Tag später](/assets/2019-08-20_IMG_2305-thumb.jpeg)](/assets/2019-08-20_IMG_2305.jpeg "Ein Tag später")
+[![Zwei Tage später](/assets/2019-08-21_IMG_2309-thumb.jpeg)](/assets/2019-08-21_IMG_2309.jpeg "Zwei Tage später")

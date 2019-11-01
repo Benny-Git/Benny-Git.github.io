@@ -9,9 +9,8 @@ Heute wurde unser Keller gestellt. Als wir kurz vor 8 zur Baustelle kamen stand 
 
 Auf jeden Fall ist jetzt schon richtig ein Grundriss (zumindest für den Keller) zu sehen, und das Haus hat quasi schon ein Stockwerk.
 
-[![Der Megakran](/assets/2019-08-23-01-thumb.jpeg)](/assets/2019-08-23-01.jpeg)
-[![Die Wände Teil 1](/assets/2019-08-23-02-thumb.jpeg)](/assets/2019-08-23-02.jpeg)
-[![Die Wände, fertig gestellt](/assets/2019-08-23-03-thumb.jpeg)](/assets/2019-08-23-03.jpeg)
-[![Deckel drauf](/assets/2019-08-23-04-thumb.jpeg)](/assets/2019-08-23-04-thumb.jpeg)
-[![Ein Blick durchs Fenster in den Keller](/assets/2019-08-23-05-thumb.jpeg)](/assets/2019-08-23-05.jpeg)
-
+[![Der Megakran](/assets/2019-08-23-01-thumb.jpeg)](/assets/2019-08-23-01.jpeg "Der Megakran")
+[![Die Wände Teil 1](/assets/2019-08-23-02-thumb.jpeg)](/assets/2019-08-23-02.jpeg "Die Wände Teil 1")
+[![Die Wände, fertig gestellt](/assets/2019-08-23-03-thumb.jpeg)](/assets/2019-08-23-03.jpeg "Die Wände, fertig gestellt")
+[![Deckel drauf](/assets/2019-08-23-04-thumb.jpeg)](/assets/2019-08-23-04-thumb.jpeg "Deckel drauf")
+[![Ein Blick durchs Fenster in den Keller](/assets/2019-08-23-05-thumb.jpeg)](/assets/2019-08-23-05.jpeg "Ein Blick durchs Fenster in den Keller")

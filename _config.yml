@@ -3,3 +3,4 @@ title: lammtal.de
 description: Ein Baublog
 show_downloads: false
 future: true
+incremental: false
